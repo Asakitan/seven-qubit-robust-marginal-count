@@ -1,7 +1,7 @@
 # A positive stability radius for the seven-qubit extremal marginal count
 
 **Byline:** Chain.Ren · Independent research  
-**Version:** [proof-v1.0.0](https://github.com/Asakitan/seven-qubit-robust-marginal-count/releases/tag/proof-v1.0.0) · 2026-11-27 (Australia/Sydney). OpenAI Codex contributed to the derivation, exposition and verification.
+**Version:** [proof-v1.0.1](https://github.com/Asakitan/seven-qubit-robust-marginal-count/releases/tag/proof-v1.0.1) · 2026-11-27 (Australia/Sydney). OpenAI Codex contributed to the derivation, exposition and verification.
 
 For a pure seven-qubit state $|\psi\rangle$, let $\rho_A$ be the reduction to a subset $A$ and $D_A=2^{|A|}\operatorname{Tr}\rho_A^2-1$. A triple is $\varepsilon$-good when $D_A\le\varepsilon$. **Theorem.** For every $0\le\varepsilon\le1/2500$, the maximum possible number of good triples is exactly **32 of 35**. This supplies an explicit, not necessarily optimal, positive radius for the seven-qubit case of [Zhang, Han and Zhang's robust extremal problem](https://arxiv.org/html/2608.13907v1).
 
