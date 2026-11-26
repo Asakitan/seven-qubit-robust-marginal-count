@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "Cite this public proof using the versioned report below."
+title: 'An explicit stability radius for the seven-qubit extremal marginal count'
+authors:
+  - family-names: "Chain.Ren"
+version: "1.0.0"
+date-released: '2026-11-27'
+license: MIT
+url: https://github.com/Asakitan/seven-qubit-robust-marginal-count/releases/tag/proof-v1.0.0
+repository-code: https://github.com/Asakitan/seven-qubit-robust-marginal-count
+preferred-citation:
+  type: report
+  title: 'An explicit stability radius for the seven-qubit extremal marginal count'
+  authors:
+    - family-names: "Chain.Ren"
+  version: "1.0.0"
+  year: 2026
+  url: https://github.com/Asakitan/seven-qubit-robust-marginal-count/blob/proof-v1.0.0/PROOF.md

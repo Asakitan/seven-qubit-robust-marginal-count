@@ -1,0 +1,6 @@
+# Screening and attribution · 2026-11-27
+
+- [Huber, Gühne and Siewert, PRL 118, 200502 (2017)](https://doi.org/10.1103/PhysRevLett.118.200502), [full paper](https://arxiv.org/abs/1608.06228): zero-error seven-qubit obstruction and extremal triple count. Their five-site parity argument and combinatorial window selection underlie the proof here. The 32 exactly mixed triples are not a new benchmark.
+- [Zhang, Han and Zhang, arXiv:2608.13907v1](https://arxiv.org/html/2608.13907v1), §I.1: their estimates do not give an explicit positive seven-qubit stability radius. [Version 2](https://arxiv.org/html/2608.13907v2) adds explicit finite-error counts for nine and ten qubits, alongside four and eight, and recalls the zero-error seven-qubit result.
+- [Lewis, arXiv:2611.05757](https://arxiv.org/abs/2611.05757) considers average entropy and average purity of seven-qubit marginals. An average and the number individually within a prescribed defect bound are distinct quantities.
+- Queries included “Qex seven qubits 32 finite error”, “seven-qubit robust extremal count three-body purity plateau”, “2608.13907 seven-qubit radius”, and the original seven-qubit parity paper with “approximate” and “anticommutator”. This result supplies explicit constants for the marginal-count problem, and does not optimize average entanglement.
